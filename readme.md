@@ -9,7 +9,7 @@ npm run dev
 or
 npm start
 
-#to execute this use -> bash script.sh OR sh script.sh
+#to execute script.sh use -> bash script.sh OR sh script.sh
 ```
 
 ### **Projeto criado para estudo**.
